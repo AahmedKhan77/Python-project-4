@@ -1,0 +1,5 @@
+weight = input('Weight: ')
+print(type(weight))
+f_weight = 0.453592 * int(weight)
+print (type(f_weight))
+print(f_weight)
